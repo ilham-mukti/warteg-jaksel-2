@@ -1,0 +1,59 @@
+nama_tempat,rating_tempat,user_ratings_total,latitude,longitude,alamat_tempat,place_id,distance
+warteg bahari,4.3,8,-6.243084899999999,106.8036004,"rt.5/rw.2, melawai, kota jakarta selatan",ChIJnR10wNHxaS4RW1jJIolVFBg,0.023272000000000403
+warteg nojo jaya,4.5,111,-6.215811599999999,106.8220707,"jl. bek murad no 18 rt 08/rw 01 kel, rt.8/rw.3, kuningan, karet kuningan, kota jakarta selatan",ChIJX1fv6wD0aS4RyuRA7AzPMdU,0.022471600000002923
+warteg gaspoll,4.6,37,-6.23992,106.811888,"santa modern market, lantai 2 no. 171-172, rt.5/rw.4, petogogan, kota jakarta selatan",ChIJox4BmHnxaS4R391rlmpggsA,0.014668900000001095
+warteg,4.2,10,-6.238093900000001,106.8271921,"jl. gatot subroto no.23, rt.2/rw.2, kuningan bar., kota jakarta selatan",ChIJkX-lW93zaS4R14XAXTz3ayU,0.028146900000010966
+warteg nojo jaya,3.5,8,-6.2105606,106.8235463,"jalan raya kelurahan setiabudi no.2, rt.2/rw.2, kuningan, setia budi, kota jakarta selatan",ChIJv9lqjAP0aS4RF_M7KtfPA6Y,0.02919820000000861
+warteg putri,4.5,105,-6.223198,106.828236,"jalan asem 4, rt.14/rw.4, kuningan, karet kuningan, kota jakarta selatan",ChIJ6xUMFvrzaS4RaCeYKqPzOHY,0.02125050000000872
+warteg nojo jaya,4.1,130,-6.2369222,106.8169473,"jl. rengas 3 no.1, rt.7/rw.2, rw. bar., kota jakarta selatan",ChIJe36y7V_xaS4Rg4XGMfLfIX0,0.016730400000001033
+warteg nojo jaya ciragil,4.2,113,-6.2374415,106.8093958,"jl. cikatomas no.12, rt.5/rw.1, rw. bar., kota jakarta selatan",ChIJSfF6m13xaS4RA4-iuuueqIg,0.011833199999990995
+warteg bahari jaya,0,0,-6.2390041,106.8188734,"jl. kapten tendean, rt.6/rw.5, kuningan bar., kota jakarta selatan",ChIJ-RZCiKvzaS4RtAav75WND64,0.020738400000006152
+warteg dj,4.6,18,-6.22937,106.821576,"jl. guru mughni no.9, rt.2/rw.5, kuningan, kuningan tim., kota jakarta selatan",ChIJ-zMdEOPzaS4RsP1D_W1cffk,0.013806899999998734
+warteg saleh jaya,4.6,21,-6.244921,106.810186,"jalan petogogan ii no.30p, pulo, rt.9/rw.5, petogogan, kota jakarta selatan",ChIJeVL2pHTxaS4RiuAtQ7S6Qkg,0.018522499999993336
+warteg kembang,4.1,148,-6.2269406,106.8218963,"jl. guru mughni jl. sd no.21, rt.5/rw.1, kuningan, kuningan tim., kota jakarta selatan",ChIJfeXGxPzzaS4Ra8mJIOI6C5w,0.011697800000010972
+warteg ibu wati,4.4,59,-6.2147302,106.8275275,"jl. karbela timur no.9, rt.9/rw.4, kuningan, karet, kota jakarta selatan",ChIJsWe4sgf0aS4RceYsAUFVx4E,0.02900980000000697
+warteg mekarjaya,4.4,53,-6.221789999999999,106.825715,"jl. pedurenan masjid iii no.4, rt.3/rw.6, kuningan, kota jakarta selatan",ChIJ0ZdzeYjzaS4RgKW6JmNNDHQ,0.02013750000000858
+warteg bahari,4.4,5,-6.2436783,106.8259957,"jl. mampang prapatan ii, rt.1/rw.5, mampang prpt., kota jakarta selatan",ChIJgeVMl9vzaS4RYj_nLr2mHlI,0.03253490000001236
+warteg bahari,4,1,-6.2208801,106.8200318,"jl. karet sawah, rt.3/rw.3, karet semanggi, kota jakarta selatan",ChIJd2e5RP7zaS4RMoTbprhaktI,0.015364200000000494
+warteg bahari 11,5,5,-6.230938,106.823469,"jl. komp. tni (auri) no.11, rt.3/rw.3, kuningan, kuningan tim., kota jakarta selatan",ChIJxw7cHCzzaS4Rtw7d-RgE6ak,0.01726790000000822
+warteg bu ati,0,0,-6.229400399999999,106.8215767,"jl. guru mughni no.10, rt.2/rw.5, kuningan, kuningan tim., kota jakarta selatan",ChIJezhuEOPzaS4R_31zYm2fBZg,0.013837999999998907
+warteg gaspoll 2.0,4.5,4,-6.2225658,106.8212412,"jl. prof. dr. satrio no.8, rt.17/rw.6, kuningan, karet kuningan, kota jakarta selatan",ChIJne7qKfzzaS4RpnpEbCwVUYA,0.014887900000007726
+warteg barokah,4.6,5,-6.216711999999999,106.827459,"jl. karet belakang barat no.3 no 20, rt.19/rw.2, kuningan, karet kuningan, kota jakarta selatan",ChIJf7Ge7R71aS4RXUK_OuZXQK4,0.026959500000010017
+warteg nojo jaya,4,13,-6.2126796,106.8227408,"jl karet, rt.8/rw.1, kuningan, pegusuran iii, kota jakarta selatan",ChIJxXC-WwH0aS4RU8hQh63PjB4,0.026273700000009725
+warteg bu ani,3.8,4,-6.218558199999999,106.8226617,"gg. tiong ujung kecamatan no.20.rt 04/01, rt.7/rw.4, kuningan, karet kuningan, kota jakarta selatan",ChIJPcROR__zaS4R44eusKgsCck,0.020316000000003775
+warteg rizky,3.8,9,-6.229686,106.8225727,"jalan perintis rt.2/rw.5, rt.3/rw.5, kuningan, kuningan tim., kota jakarta selatan",ChIJq15KFOPzaS4RRIvf0vROEU4,0.015119600000000233
+warteg biru,4.4,19,-6.222900999999999,106.8209295,"jl. guru mughni blok no.8, rt.1/rw.3, karet semanggi, kota jakarta selatan",ChIJN66F9_zzaS4RSmv_R9fk6Cw,0.014241000000010828
+warteg akotizam,4.6,44,-6.2126686,106.8234422,"jl. karet gusuran iii gg. kamboja no.10, rt.6/rw.1, kuningan, karet, kota jakarta selatan",ChIJZZDGUwH0aS4R_Jn8cbpksvQ,0.02698610000000734
+warteg bahari,4.5,6,-6.209216199999999,106.826903,"jalan setia budi tengah no. 07, rt.1/rw.1, setia budi, kecamatan setiabudi, rt.1/rw.1, kuningan, setia budi, kota jakarta selatan",ChIJC00EUCH1aS4RoMLt2gsdy2k,0.03389930000000696
+warteg 88,4.1,17,-6.212848699999999,106.825929,"jalan perintis rt 8 rw 5, kelurahan karet, kecamatan setia budi, rt.12/rw.4, kuningan, karet, kota jakarta selatan",ChIJj2o9kAb0aS4RvV3NSi8oMRQ,0.029292800000008334
+warteg 100%,4.4,42,-6.216796599999999,106.8222188,"jalan bek kh rohyani i no. 9, rt.6/rw.1, karet kuningan, kecamatan setiabudi, rt.6/rw.1, kuningan, karet kuningan, kota jakarta selatan",ChIJuZARmAD0aS4R7dIOEU0CIg4,0.02163470000000789
+warteg salma,4.2,144,-6.2282198,106.7950619,"jl. terusan hang lekir 1 no.79, rt.10/rw.8, grogol sel., kota jakarta selatan",ChIJGzXDCEjxaS4R3Abp9hiYpu4,0.016945400000001776
+warteg jaya bahari,4.6,5,-6.241229,106.8177995,"jl. bangka raya no.10, rt.2/rw.1, pela mampang, kota jakarta selatan",ChIJVYhx2GHxaS4R8ZbmSUf-62k,0.021889400000011605
+warteg bahari 234,0,0,-6.2393939,106.8182932,"jl. kapten tendean no.4, rt.1/rw.1, pela mampang, kota jakarta selatan",ChIJE-dnjN_zaS4RunDaLwj6xZ0,0.02054800000000423
+warteg jaya,3,1,-6.237504,106.814933,"#, jl. birah ii no.4, rt.6/rw.6, rw. bar., kota jakarta selatan",ChIJy_TP0l_xaS4RN33VNof7puc,0.015297900000001974
+warteg angga,4.5,6,-6.218191999999999,106.825028,"jl. anggrek ii no.1, rt.6/rw.2, kuningan, karet kuningan, kota jakarta selatan",ChIJNzvBuQ_zaS4RI1wu09h_5LA,0.023048500000008687
+warteg ahai jaya,4.7,43,-6.217871,106.82706,"jl anggrek 5 rt 14/rw 07 kel, 7 no.16, rt.16/rw.7, kuningan, karet kuningan, kota jakarta selatan",ChIJpRu8ZPjzaS4RZOc8Q7r-8KU,0.02540150000000807
+warteg bahari 22,4.6,67,-6.2145109,106.8223095,"jl. pelita no.22, rt.4/rw.2, kuningan, karet kuningan, kota jakarta selatan",ChIJOY4MIQH0aS4RUlA2feVudjA,0.024011100000008057
+warteg berkah,4.3,3,-6.222456999999999,106.820594,"jl. guru mughni no.147, rt.1/rw.3, karet semanggi, kota jakarta selatan",ChIJmRFo5qrzaS4RJLZsBv2W5Vg,0.01434950000000601
+warteg putri,4.5,17,-6.219725299999999,106.8244858,"jl. h. sidik no.30, rt.6/rw.6, kuningan, karet kuningan, kota jakarta selatan",ChIJObivLHDzaS4Rrutp4VQq0M8,0.020973000000011233
+warteg mekar jaya,4.4,18,-6.2217954,106.8257664,"jl. karet pedurenan no.52 4, rt.4/rw.7, kuningan, karet kuningan, kota jakarta selatan",ChIJ3-tla_nzaS4R7BfOt7mwEEY,0.020183500000010568
+warteg bangka 2,4.4,113,-6.2438636,106.819218,"jl. bangka ii no.rt.12, rt.12/rw.1, pela mampang, kota jakarta selatan",ChIJyzDruNjzaS4RBaMrsK3v6lU,0.025942500000011748
+warteg dua saudara,4.5,13,-6.221017,106.827992,"jl pedurenan masjid raya rt 06/rw 07 kel, rt.6/rw.7, kuningan, karet kuningan, kota jakarta selatan",ChIJK2uIlfnzaS4R2w2xmEMl-Sk,0.023187499999999694
+warteg della,4.3,3,-6.2298787,106.8214684,"jl. peltu rahmat sidup, rt.2/rw.2, karet semanggi, kota jakarta selatan",ChIJi1MQBuPzaS4RIoo3vQ60NW4,0.014208000000006216
+warteg badriah,0,0,-6.2097962,106.8272084,"jl. taman setia budi ii no.50, rt.1/rw.2, kuningan, setia budi, kota jakarta selatan",ChIJ0REFe7z1aS4RTCGRGEuLvjE,0.033624700000007834
+warteg bude,4,4,-6.2292431,106.795898,"jl. hang lekir i no.2b, rt.1/rw.3, grogol sel., kota jakarta selatan",ChIJhbFUwkfxaS4R7mQNkF0Y5Fc,0.01713260000000094
+warteg mini,0,0,-6.2434274,106.824083,"gg. h. mujimi no.60, rt.7/rw.6, mampang prpt., kota jakarta selatan",ChIJbxGTLxLzaS4RrhRkakxv8SE,0.030371300000006762
+warteg nojo jaya 99,5,3,-6.2168497,106.822256,"jl. k.h. royani i no.9, rt.6/rw.1, kuningan, karet kuningan, kota jakarta selatan",ChIJ9ZizEkL1aS4R7y0LfOjA-40,0.021618800000000604
+warteg kowantara jaksel,5,1,-6.241513299999999,106.8177321,"jl. bangka raya no.1, rt.2/rw.5, pela mampang, kota jakarta selatan",ChIJz4Xl2GHxaS4RmiyEQ3wPx7U,0.02210630000000524
+warteg jaya bahari,4,1,-6.2167148,106.8216328,"kel, jl kh royani 1 no27 rt09/rw01, rt.9/rw.1, kuningan, karet kuningan, kota jakarta selatan",ChIJWaqLvkz1aS4RxoT8PHno9X0,0.021130500000007935
+warteg berkah jaya,0,0,-6.242133700000001,106.8201452,"jl. bangka i a no.18, rt.5/rw.9, pela mampang, jakarta",ChIJz3KxaWnzaS4RE3VmXvN8OeI,0.025139800000005152
+warteg sari asih,0,0,-6.209889,106.822346,"jalan barat kelurahan setiabudi kecamatan setiabudi, setiabudi, rt.2/rw.2, kuningan, setia budi, dki jakarta",ChIJtwDAYgT0aS4RZvoZczGj0OY,0.028669500000000347
+warteg aka jaya,5,3,-6.240929899999999,106.8179024,"jl. bangka raya no.10a, rt.2/rw.5, pela mampang, kota jakarta selatan",ChIJKVUSgyXxaS4RzwvA9q0q4G4,0.021693199999998747
+warteg bu yanti,4.8,12,-6.245361,106.8274283,"jl. mampang prapatan iv, rt.5/rw.5, mampang prpt., kota jakarta selatan",ChIJnUe14trzaS4RXKiE7Rit_eo,0.03565019999999919
+warteg anindya,4.7,3,-6.2409514,106.8211758,"jl. pd. karya, rt.2/rw.9, pela mampang, kota jakarta selatan",ChIJ7caTMqbzaS4RK-zKmDq8XSk,0.024988100000011393
+warteg bu sari,4.5,6,-6.2415787,106.8176039,"jl. bangka raya, rt.3/rw.1, pela mampang, kota jakarta selatan",ChIJ8xLw3mHxaS4RMk5Jcbk88VM,0.02204349999999966
+warteg slawiayu,5,1,-6.236124299999999,106.8157183,"blok s, jl. senayan, rt.5/rw.6, rw. bar., kota jakarta selatan",ChIJxxTspF_xaS4RSg0lD1RiMWA,0.014703500000004865
+warteg kirana bahari,4.5,24,-6.234984,106.818697,"jl. poncol jaya no.20, rt.9/rw.4, kuningan bar., kota jakarta selatan",ChIJt0NuzuHzaS4Rq7gif9mfGWs,0.016541900000005327
+warteg 88a jaya,4,13,-6.238967,106.813477,"rt.1/rw.4, petogogan, south jakarta city",ChIJ-VtAlWDxaS4Rufkfpv684fU,0.015304900000010946
+warteg pandan wangi,4.5,52,-6.243892,106.8015754,"jalan hasanudin dalam no.28c blok m, kebayoran baru, rt.3/rw.1, melawai, kota jakarta selatan",ChIJfzFWNWnxaS4RKd8Nme0LbRI,0.026104099999990638
+warteg pandan wangi,2.5,2,-6.219761,106.826687,"jl. peduranan masjid 2 kelurahan karet kuningan kecamatan setiabudi, dki jakarta",ChIJFwAAAPnzaS4Rf6j2RPhx2BI,0.023138500000011497

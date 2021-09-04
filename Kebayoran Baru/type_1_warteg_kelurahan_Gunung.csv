@@ -1,0 +1,58 @@
+nama_tempat,rating_tempat,user_ratings_total,latitude,longitude,alamat_tempat,place_id,distance
+warteg ibu mukrim,4.4,9,-6.2294415,106.8078555,"jalan tebet barat raya no 71 a rt 15 rw 01, gang keamanan no.2, rt.7/rw.3, senayan, dki jakarta",ChIJtTxgoVrxaS4RIcILCJ94784,0.02056610000000436
+warteg bahari,4.3,8,-6.243084899999999,106.8036004,"rt.5/rw.2, melawai, kota jakarta selatan",ChIJnR10wNHxaS4RW1jJIolVFBg,0.019001599999993957
+warteg saleh jaya,4.6,21,-6.244921,106.810186,"jalan petogogan ii no.30p, pulo, rt.9/rw.5, petogogan, kota jakarta selatan",ChIJeVL2pHTxaS4RiuAtQ7S6Qkg,0.02742330000000326
+warteg barokah,4.8,4,-6.247303899999999,106.7797712,"jl. bungur, rt.4/rw.1, kby. lama utara, kota jakarta selatan",ChIJwahg_BrxaS4RNRojSe6S7EQ,0.025380599999997422
+warteg kharisma bahari,4.2,156,-6.2443246,106.7805457,"warteg kharisma bahari 18 jl.ciputat raya no.30 rt.03 rw.07, rt.3/rw.4, kby. lama utara, kota jakarta selatan",ChIJA4lMQyzxaS4RpfbgphsypcQ,0.02162679999999284
+warteg nojo jaya ciragil,4.2,113,-6.2374415,106.8093958,"jl. cikatomas no.12, rt.5/rw.1, rw. bar., kota jakarta selatan",ChIJSfF6m13xaS4RA4-iuuueqIg,0.01915360000000632
+warteg bahari,3.4,5,-6.230443999999999,106.785361,"jl. rawa simprug ix b no.7, rt.6/rw.9, grogol sel., kota jakarta selatan",ChIJPyls_jrxaS4RmyaV7fGd8Cw,0.011878700000004017
+warteg barokah,5,2,-6.2362479,106.783932,"jl. nasional 12, rt.5/rw.1, kby. lama utara, kota jakarta selatan",ChIJm92c4DzxaS4R3xzQMk6XG4o,0.010163800000005274
+warteg zahra,4.2,17,-6.2524679,106.7945975,"jl. petogogan i no.20a, rt.1/rw.11, gandaria utara, kota jakarta selatan",ChIJkTt21XLxaS4RJPViggvKqAg,0.019381699999996727
+warteg,5,2,-6.2369629,106.7751159,"qq7g+629, rt.2/rw.4, cipulir, south jakarta city",ChIJqVE2hLrxaS4Ra8uSgAFfTts,0.019694899999994853
+warteg sederhana,5,1,-6.2290871,106.7789612,"jl. raya kby. lama no.19, rt.4/rw.10, grogol sel., kota jakarta selatan",ChIJK7bBfkvxaS4RSj8BA7bN760,0.019635400000000303
+warteg jaya bahari,4.4,23,-6.24587,106.7844251,"jl. taman gandaria, rt.9/rw.6, kby. lama utara, kota jakarta selatan",ChIJqwf67hDxaS4Rlz_dZoKL-fs,0.019292799999990784
+warteg bahari velbak,5,1,-6.2393284,106.7850884,"komplek perkantoran kebayoran baru mall, jl. kebayoran baru no.4, rt.4/rw.7, gunung, kota jakarta selatan",ChIJc_XjEL_xaS4R-Ll2yi00gt4,0.012087899999991158
+warteg bowo,4.8,8,-6.241123,106.791073,"jl. tebah ii no.115, rt.14/rw.3, gunung, kota jakarta selatan",ChIJnft4VK_xaS4RDM-zRemp4Ss,0.007897900000000568
+warteg putra pertama,3.5,2,-6.2285074,106.7844666,"rt 001 rw 009 # 5 kebayoran lama, jl. rawa simprug iii, rt.2/rw.5, grogol sel., dki jakarta",ChIJ45graDDxaS4R8I_wY7GX_yQ,0.014709699999996495
+warteg putrabahari,4.4,111,-6.229489999999999,106.7767754,"jl. cidodol raya, rt.3/rw.11, grogol sel., kota jakarta selatan",ChIJy6ta_CXxaS4RfydUlbQcTPk,0.02141829999999345
+warteg idola,4.5,86,-6.2493022,106.7837738,"jl. bungur ii, rt.4/rw.2, kby. lama sel., dki jakarta",ChIJ75L4HhDxaS4RgYOwHHC9nog,0.0233762999999918
+warteg berkah,4.5,21,-6.2451104,106.7937817,"jalan barito, rt.3/rw.1, kramat pela, kota jakarta selatan",ChIJ_fAfNhPxaS4RO0NcipMGV5A,0.011208399999998342
+warteg berkah merintis tanpa batas,4.4,11,-6.225582999999999,106.7798811,"jl. limo no.10, rt.1/rw.10, grogol sel., kota jakarta selatan",ChIJcRWrjC7xaS4RmkS4xghmzsU,0.02221960000000145
+warteg salma,4.2,144,-6.2282198,106.7950619,"jl. terusan hang lekir 1 no.79, rt.10/rw.8, grogol sel., kota jakarta selatan",ChIJGzXDCEjxaS4R3Abp9hiYpu4,0.008994199999995622
+warteg gandasari,4.4,18,-6.2257807,106.7809555,"jl. limo no.22, rt.1/rw.2, grogol utara, kota jakarta selatan",ChIJIakoSC7xaS4R6oSAffpFsA0,0.0209474999999939
+warteg putrabahari,4.3,10,-6.2255729,106.7746448,"jl. assirot no.10, rt.5/rw.1, grogol sel., kota jakarta selatan",ChIJswjlEynxaS4R0HuT1w1sB2k,0.02746599999999333
+warteg hello bahari,4.8,11,-6.225492999999999,106.7764421,"jl assirot no.12 rt006/01, rt.6/rw.1, grogol sel., kota jakarta selatan",ChIJDWlSt_fxaS4R0pO5s-a8zrs,0.025748600000001787
+warteg makmu,5,1,-6.2416718,106.7800145,"jl. kh. mas'ud, rt.1/rw.1, cipulir, kota jakarta selatan",ChIJaVIkUxjxaS4RIeJt5SI2qTQ,0.019505200000004663
+warteg kharisma bahari,4,4,-6.2203588,106.7816176,"jl. panjang no.8, rt.7/rw.10, grogol utara, kota jakarta selatan",ChIJTSdrby3xaS4Ry8UPA0jQ4fk,0.025707299999994326
+warteg raji,4.6,5,-6.246399299999999,106.7845764,"jl. duku raya no.12, rt.9/rw.9, kby. lama utara, kota jakarta selatan",ChIJYSz1fBfxaS4Rc5smXxQqVBo,0.019670799999991218
+warteg darmi,3,2,-6.2449431,106.7815609,"jl. gandaria kampung dukuh no. 35 rt 007%2frw 06 kebayoran lama selatan kebayoran lama jakarta selatan dki jakarta, rt.4/rw.4, kby. lama utara, kota jakarta selatan",ChIJg5RnEBrxaS4R_S05Fz9PDNU,0.02123009999999592
+warteg bude,4,4,-6.2292431,106.795898,"jl. hang lekir i no.2b, rt.1/rw.3, grogol sel., kota jakarta selatan",ChIJhbFUwkfxaS4R7mQNkF0Y5Fc,0.008806999999996457
+warteg barokah limo,5,2,-6.2262129,106.785473,"jl. limo no.8, rt.3/rw.9, grogol sel., kota jakarta selatan",ChIJjQjlJvnxaS4RDVurz_jmooY,0.01599780000000184
+warteg budhe,0,0,-6.2355171,106.7830314,"jl. jiban, rt.8/rw.1, grogol sel., kota jakarta selatan",ChIJO2PQyDzxaS4RLAyuJKAVU1c,0.010333599999999166
+warteg kemenangan bahari,4.6,48,-6.242085899999999,106.7813601,"jl. makmur no.#27, rt.4/rw.3, kby. lama utara, kota jakarta selatan",ChIJc-KlwxnxaS4RC6Uj5Frx3RE,0.018573699999996585
+wahyoo warteg mekarsari,4.5,79,-6.2522474,106.7833053,"dalam k nomor, jl. praja no.40, rt.7/rw.5, kby. lama sel., kota jakarta selatan",ChIJNS1Wdg_xaS4RQUMIMTYVufw,0.026790000000002756
+warteg gaspoll,4.6,37,-6.23992,106.811888,"santa modern market, lantai 2 no. 171-172, rt.5/rw.4, petogogan, kota jakarta selatan",ChIJox4BmHnxaS4R391rlmpggsA,0.024124299999997767
+warteg agung gandaria,4.5,562,-6.2448571,106.7890842,"jl. gandaria tengah ii no.30, rt.12/rw.1, kramat pela, kota jakarta selatan",ChIJ2ciJ5RPxaS4RKetFCdhKdnY,0.013620799999992883
+wahyoo warteg hidayah,0,0,-6.249195599999999,106.7826033,"jl. bungur ii no.57, rt.2/rw.2, kby. lama sel., kota jakarta selatan",ChIJ-X5OABDxaS4RtSLrS7TkDtw,0.02444019999999192
+warteg barokah,0,0,-6.233607699999999,106.789618,"jl. martimbang raya no.5, rt.3/rw.5, gunung, kota jakarta selatan",ChIJYWy1SjnxaS4RLPO6FN5SrsU,0.0044579999999943
+warteg pandan wangi,4.5,52,-6.243892,106.8015754,"jalan hasanudin dalam no.28c blok m, kebayoran baru, rt.3/rw.1, melawai, kota jakarta selatan",ChIJfzFWNWnxaS4RKd8Nme0LbRI,0.017783700000006064
+warteg 69,5,1,-6.242126499999999,106.7833824,"jl. sultan iskandar muda no.11, rt.4/rw.4, kby. lama utara, kota jakarta selatan",ChIJWQUNHvbxaS4RV8RF_hLg5SA,0.016592000000002827
+warteg kharisma bahari - senopati,4.9,13,-6.2297926,106.8076864,"jl. tulodong atas no.1 no.3, rt.6/rw.3, senayan, kota jakarta selatan",ChIJfTBswT_xaS4RbXxLGbiUOnI,0.02004589999999684
+warteg 24 jam marisah,3.6,11,-6.23766,106.776666,"jl. ciledug raya, rt.6/rw.2, cipulir, kota jakarta selatan",ChIJK-3JFxrxaS4RzmEHGx_eP88,0.018841899999991973
+warteg wahyu,3.5,2,-6.2342441,106.7783521,"jalan kebon mangga ii rt 004 rw 003 # 4, rt.1/rw.7, cipulir, kota jakarta selatan",ChIJm9NMdiTxaS4RDYbReO4ar5A,0.015087499999991927
+warteg kharisma,4.3,13,-6.246765099999999,106.7882461,"jl. jatayu no.rt.7, rt.8/rw.3, south kebayoran lama, south jakarta city",ChIJwTFnhBHxaS4RUnkcZqdgsTI,0.016366900000002182
+warteg mubarok,4.3,11,-6.2499981,106.7900569,"jl. antena ii no.17, rt.3/rw.8, kramat pela, kota jakarta selatan",ChIJMRQqlw3xaS4RAbC3wsz1ewQ,0.017789100000001667
+warteg agung jaya,4.9,7,-6.227968499999999,106.786927,"jalan rawa simprug iii rt 006 rw 005 # 12 grogol selatan, rt.5/rw.5, grogol sel., dki jakarta",ChIJ3USPoTDxaS4RJNNLe1oEBhk,0.012788199999993033
+warteg salma,4.7,3,-6.2370511,106.7829808,"jalan mangga tengah, rt.08/rw.3, rt.3/rw.1, cipulir, kota jakarta selatan",ChIJlfWCufHxaS4RRaoFVqaQjGo,0.011918199999993995
+warteg barokah,5,1,-6.2392066,106.794929,"qq6v+8x7, rt.4/rw.8, gunung, south jakarta city",ChIJm_ImOgHxaS4R7Yzb2V0VK7k,0.0064518999999982896
+warteg bahari - base camp ojol lobby selatan jkt,4.7,17,-6.228161999999999,106.79497,"jl. simprug golf 2 no.132, rt.10/rw.8, grogol sel., kota jakarta selatan",ChIJR0oTpNvxaS4R-BZLVedKTdM,0.008960100000009241
+warteg citra bahari,3.6,10,-6.253381,106.77607,"jalan bintaro raya tanah kusir, rt.2/rw.10, kebayoran lama selatan, kebayoran lama, rt.11/rw.10, kby. lama sel., kota jakarta selatan",ChIJo7yAjAPxaS4Rj1TMzLIGzlE,0.035158899999993665
+warteg (wahyoo) enno,5,4,-6.2498542,106.7915148,"jl. radio dalam raya no.2, rt.14/rw.2, gandaria utara, kota jakarta selatan",ChIJn2kcbrrxaS4RrbmUrkJi46s,0.016187299999995908
+warteg nurul jaya,5,1,-6.237932799999999,106.8092399,"jl. ciragil ii no.14, rt.4/rw.1, rw. bar., kota jakarta selatan",ChIJlSx6gV3xaS4RX63CdU-RK_c,0.01948899999999565
+warteg sari rasa bahari,4.8,4,-6.241202700000001,106.8086271,"15, rt.15/rw.6, petogogan, kota jakarta selatan",ChIJfcQt7GfxaS4RQPODRu1FWH8,0.022146099999998725
+warteg mak toing,0,0,-6.2496961,106.7940004,"jl. percetakan i, rt.5/rw.4, kramat pela, kota jakarta selatan",ChIJ0c6CrJnxaS4Rp0oJxZJZ1rM,0.016012800000003935
+warteg soimah,2.5,2,-6.2279768,106.7937316,"jl. simprug golf 2, rt.9/rw.8, grogol sel., kota jakarta selatan",ChIJJenUhTLxaS4R-Nqjur3btC0,0.007906900000002715
+warteg kowantara jaksel,4.8,21,-6.2299117,106.7789302,"jl. kebayoran lama raya rt 04/10 no 26 kebayoran lama jakarta selatan, rt.3/rw.11, grogol sel., kota jakarta selatan",ChIJpfYsmiXxaS4RDQajfPs9du4,0.01884179999999347
+warteg kharisma bahari,4,4,-6.2323856,106.7908186,"jl. martimbang raya no.25, rt.1/rw.5, gunung, kota jakarta selatan",ChIJi3-XGDnxaS4R0Sx3S7XspJ0,0.004479500000003966
+warteg raji,5,1,-6.2403518,106.7832983,"jl. sultan iskandar muda no.4, rt.4/rw.2, kby. lama utara, kota jakarta selatan",ChIJ2REnAdzxaS4RLlNuk6BRH8M,0.014901399999999398
+warteg permata,0,0,-6.240144099999999,106.7805735,"pasar kebayoran lama, jl. ciputat raya, rt.3/rw.1, cipulir, kota jakarta selatan",ChIJpbpQaRjxaS4Rt574k3xGfgw,0.017418499999994452
