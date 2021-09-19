@@ -55,7 +55,7 @@ class GooglePlaces:
 			"location": f"{self.latitude},{self.longitude}",
 			"radius": self.radius,
 			"keyword": 'warteg',
-			"type": 'type_place',
+			"type": type_place,
 			"key": self.api_key,
 			"rankby": "prominence"
 		}
